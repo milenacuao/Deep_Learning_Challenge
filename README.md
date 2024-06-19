@@ -1,7 +1,8 @@
 # Deep_Learning_Challenge
 
-https://colab.research.google.com/drive/1ePZIX_VvdgyhgTbkKbz7eBedi0775tX9?usp=drive_link
-https://colab.research.google.com/drive/1w56HjqmMcGRfRrQvsYcXNxr_Fx5eOcKj?usp=drive_link
+https://colab.research.google.com/drive/1ePZIX_VvdgyhgTbkKbz7eBedi0775tX9?usp=sharing
+https://colab.research.google.com/drive/1w56HjqmMcGRfRrQvsYcXNxr_Fx5eOcKj?usp=sharing
+
 
 The nonprofit foundation Alphabet Soup wants a tool that can help it select the applicants for funding with the best chance of success in their ventures. With your knowledge of machine learning and neural networks, you’ll use the features in the provided dataset to create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup.
 
