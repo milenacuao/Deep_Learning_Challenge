@@ -1,7 +1,6 @@
 # Deep_Learning_Challenge
 
-https://colab.research.google.com/drive/1ePZIX_VvdgyhgTbkKbz7eBedi0775tX9?usp=sharing
-https://colab.research.google.com/drive/1w56HjqmMcGRfRrQvsYcXNxr_Fx5eOcKj?usp=sharing
+
 
 
 The nonprofit foundation Alphabet Soup wants a tool that can help it select the applicants for funding with the best chance of success in their ventures. With your knowledge of machine learning and neural networks, you’ll use the features in the provided dataset to create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup.
@@ -44,6 +43,8 @@ Accuracy measures the proportion of correctly predicted instances out of the tot
 The model underwent 268 training epochs, with each epoch taking around 532 milliseconds, translating to efficient training steps of about 2 milliseconds each.
 
 The model achieves a moderate level of accuracy at 73.26%, which indicates a reasonable predictive capability but also underscores the necessity for further improvements. By exploring additional optimization techniques and possibly alternative models, it may be possible to achieve the target accuracy of 75% or higher. The current performance provides a solid foundation for further development and refinement.
+
+The optimizzation model shows a promising performance with an accuracy of 76.83% and a loss of 0.6283 after 268 epochs. While this is a good starting point, there is still room for improvement to enhance the model's accuracy and reduce its loss. Implementing strategies for optimization and tuning could lead to better performance in future iterations.
 
 Data Prepocessing
 What variable(s) are the target(s) for your model? 
